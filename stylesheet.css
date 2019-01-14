@@ -358,7 +358,7 @@ body {
 
 	text-align: left;
 	font-family: Arial, san-serif;
-	font-size: 1.5 em;
+	font-size: 1.25 em;
 	color: black;
 	
 }
@@ -366,24 +366,24 @@ body {
 
 h1, h2 {
 	text-align: center;
-	padding: 3.5%;
+	padding: 3%;
 }
 
 footer {
 	text-align: center;
-	font-size: .5em;
+	font-size: .75em;
 }
 
 p.text{
-	font-size: 1.5em;
+	font-size: 1.25em;
 	font-family: serif;
 	
 }
 img {
     height: auto; 
     width: auto; 
-    max-width: 300px; 
-    max-height: 300px;
+    max-width: 350px; 
+    max-height: 350px;
 	border-style: double;
 	border-width: 15px;
 	display:block;
