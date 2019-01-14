@@ -347,3 +347,77 @@ template {
 [hidden] {
   display: none;
 }
+
+
+body {
+	width: 85%;
+	margin: 0 auto;
+	border-style: ridge; 
+	background: rgba(213,175,247,0.3);
+	padding: 3.5%;
+
+	text-align: left;
+	font-family: Arial, san-serif;
+	font-size: 1.5 em;
+	color: black;
+	
+}
+
+
+h1, h2 {
+	text-align: center;
+	padding: 3.5%;
+}
+
+footer {
+	text-align: center;
+	font-size: .5em;
+}
+
+p.text{
+	font-size: 1.5em;
+	font-family: serif;
+	
+}
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+	border-style: double;
+	border-width: 15px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+}
+
+
+a:link{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+a:visited {
+	color: green;
+}
+a:hover{
+    color: purple;
+}
+
+ul {
+  list-style-type: none;
+  padding: 1%;
+}
+
+li{
+  padding:.25%;
+}
+
+#nav{
+	text-align: center;
+	display: block;
+	padding-bottom: 1%;
+}
+
